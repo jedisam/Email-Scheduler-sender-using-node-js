@@ -1,0 +1,68 @@
+html(lang='en')
+    head
+        meta(charset='UTF-8')
+        meta(name='viewport', content='width=device-width, initial-scale=1.0')
+        title= title
+        style.
+            body {
+            background-color: antiquewhite;
+            text-align: center;
+            padding: 100px;
+            }
+            table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 40%;
+            text-align: center;
+            }
+            td,
+            th {
+            border: 1px solid #dddddd;
+            text-align: center;
+            padding: 8px;
+            }
+            tr:nth-child(even) {
+            background-color: #dddddd;
+            }
+            button {
+            margin-top: 20px;
+            background-color: #67a832;
+            padding: 10;
+            border: none;
+            color: #fff;
+            border-radius: 15%;
+            }
+    body
+        h1 Student Break Time Table
+        h2 Admin Panel
+        br
+        h2 Organize time table
+        form.form-user-data
+            table(align='center')
+                tbody
+                    tr
+                        th Grade
+                        th Luch Time
+                    tr
+                        td 9 & 11
+                        td
+                            select#time1(name='time1')
+                                option(value='6') 6:00 L.T
+                                option(value='7') 7:00 L.T
+                    tr
+                        td 10 & 12
+                        td
+                            select#time2(name='time2')
+                                option(value='6') 6:00 L.T
+                                option(value='7') 7:00 L.T
+            br
+            table(align='center')
+                tbody
+                    tr
+                        th Send Text With
+                        th
+                            select#method(name='method')
+                                option(value='sms') Sms
+                                option(value='email') Email
+            button(type="submit")#btn Done
+        script(src='./index.js' type="module")

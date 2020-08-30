@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Robel Samuel",
+    "email": "rob@gmail.com",
+    "age": 14,
+    "gender": "male",
+    "grade": 9,
+    "section": "D",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Henok Maru",
+    "email": "heni@mailsac.com",
+    "age": 14,
+    "gender": "male",
+    "grade": 9,
+    "section": "B",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Meron Abate",
+    "email": "merry@gmail.com",
+    "age": 14,
+    "gender": "female",
+    "grade": 9,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Helen Samuel",
+    "email": "heli@gmail.com",
+    "age": 14,
+    "gender": "female",
+    "grade": 9,
+    "section": "B",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Sara Melake",
+    "email": "sari@gmail.com",
+    "age": 13,
+    "gender": "female",
+    "grade": 9,
+    "section": "D",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Samuel Amsalu",
+    "email": "sam@gmail.com",
+    "age": 15,
+    "gender": "male",
+    "grade": 9,
+    "section": "D",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Feven Reda",
+    "email": "fev@gmail.com",
+    "age": 14,
+    "gender": "female",
+    "grade": 9,
+    "section": "B",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Amel Karim",
+    "email": "amis@gmail.com",
+    "age": 15,
+    "gender": "female",
+    "grade": 9,
+    "section": "A",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Lidya Tefera",
+    "email": "lidu@gmail.com",
+    "age": 14,
+    "gender": "female",
+    "grade": 9,
+    "section": "B",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Kaleab Mekonen",
+    "email": "kalu@gmail.com",
+    "age": 14,
+    "gender": "male",
+    "grade": 9,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Hana Samuel",
+    "email": "hani9@gmail.com",
+    "age": 15,
+    "gender": "female",
+    "grade": 10,
+    "section": "B",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Rebekah Mesay",
+    "email": "rbk13@gmail.com",
+    "age": 14,
+    "gender": "female",
+    "grade": 10,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Leul Dereje",
+    "email": "leul78@gmail.com",
+    "age": 15,
+    "gender": "male",
+    "grade": 10,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Tsion Hailu",
+    "email": "tsi@mailsac.com",
+    "age": 15,
+    "gender": "female",
+    "grade": 10,
+    "section": "D",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Abel Sisay",
+    "email": "abi32@gmail.com",
+    "age": 16,
+    "gender": "male",
+    "grade": 10,
+    "section": "A",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Brook Adam",
+    "email": "brookk5@gmail.com",
+    "age": 15,
+    "gender": "male",
+    "grade": 10,
+    "section": "A",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Brook Zeleke",
+    "email": "brookZ@gmail.com",
+    "age": 15,
+    "gender": "male",
+    "grade": 10,
+    "section": "A",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Sisay Lukas",
+    "email": "sis2@gmail.com",
+    "age": 16,
+    "gender": "male",
+    "grade": 10,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Lamrot Melaku",
+    "email": "lami12@gmail.com",
+    "age": 15,
+    "gender": "female",
+    "grade": 10,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Rediet Abebe",
+    "email": "redi32@gmail.com",
+    "age": 15,
+    "gender": "female",
+    "grade": 10,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Robel Tefera",
+    "email": "robas@gmail.com",
+    "age": 17,
+    "gender": "male",
+    "grade": 11,
+    "section": "D",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Abel sintayehu",
+    "email": "absint@gmail.com",
+    "age": 18,
+    "gender": "male",
+    "grade": 11,
+    "section": "A",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Feven Tamiru",
+    "email": "fevtam@gmail.com",
+    "age": 17,
+    "gender": "female",
+    "grade": 11,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Gelila Desalegn",
+    "email": "gelu@mailsac.com",
+    "age": 17,
+    "gender": "female",
+    "grade": 11,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Joshua Kebede",
+    "email": "joshK2@gmail.com",
+    "age": 18,
+    "gender": "male",
+    "grade": 11,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Yonantan Amha",
+    "email": "yoniAm@gmail.com",
+    "age": 17,
+    "gender": "male",
+    "grade": 11,
+    "section": "D",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Mike Tamirat",
+    "email": "mikeT@gmail.com",
+    "age": 18,
+    "gender": "male",
+    "grade": 11,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Abigya Mola",
+    "email": "abiguMol@gmail.com",
+    "age": 17,
+    "gender": "female",
+    "grade": 11,
+    "section": "A",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Beti Dereje",
+    "email": "beti73@gmail.com",
+    "age": 17,
+    "gender": "female",
+    "grade": 11,
+    "section": "A",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Blen Tamrat",
+    "email": "blen7@gmail.com",
+    "age": 17,
+    "gender": "female",
+    "grade": 11,
+    "section": "A",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Feven Sisay",
+    "email": "fevSis7@gmail.com",
+    "age": 18,
+    "gender": "female",
+    "grade": 12,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Abel Markos",
+    "email": "abelMarkos23@gmail.com",
+    "age": 18,
+    "gender": "male",
+    "grade": 12,
+    "section": "A",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Kaleab Samson",
+    "email": "kalusamson@gmail.com",
+    "age": 17,
+    "gender": "male",
+    "grade": 12,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Melat Tinsae",
+    "email": "mel@mailsac.com",
+    "age": 19,
+    "gender": "female",
+    "grade": 12,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Beti Samuel",
+    "email": "betish2@gmail.com",
+    "age": 18,
+    "gender": "female",
+    "grade": 12,
+    "section": "A",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Helen Melake",
+    "email": "heli9@gmail.com",
+    "age": 17,
+    "gender": "male",
+    "grade": 12,
+    "section": "B",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Robel Sisay",
+    "email": "robaSis1@gmail.com",
+    "age": 20,
+    "gender": "male",
+    "grade": 12,
+    "section": "C",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Tito Filmon",
+    "email": "titoFil2@gmail.com",
+    "age": 19,
+    "gender": "male",
+    "grade": 12,
+    "section": "D",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Hana Dereje",
+    "email": "hani21@gmail.com",
+    "age": 18,
+    "gender": "female",
+    "grade": 12,
+    "section": "B",
+    "number": "+251123345678"
+  },
+  {
+    "name": "Martha Kaleb",
+    "email": "mariKal2@gmail.com",
+    "age": 17,
+    "gender": "female",
+    "grade": 12,
+    "section": "C",
+    "number": "+251123345678"
+  }
+]
